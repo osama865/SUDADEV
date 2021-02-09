@@ -1,6 +1,7 @@
 import React from "react";
-import { BrowserRouter as Router, Link, Switch, Route } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import "./App.css";
+import "./styles/main.css";
 import "./index.css";
 import "./styles/tailwind.css";
 import Buyer from "./components/Buyer/Buyer";
